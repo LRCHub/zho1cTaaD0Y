@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "嘘ラック",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-03-11T05:14:56.079490Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘘ラック",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_嘘ラック_まふまふ.txt"
+    }
+  ]
+}
